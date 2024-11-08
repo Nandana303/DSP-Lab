@@ -3,7 +3,7 @@
         TITLE : VERIFICATION OF PROPERTIES OF DFT
 %}
 
-%-----------------------------------------------------------------------%
+
 
 %{
             (1) VERIFICATION OF PERIODICITY PROPERTY  DFT
